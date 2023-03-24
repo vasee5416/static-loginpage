@@ -1,0 +1,25 @@
+﻿.login__form
+{
+    margin: 4px 4px 12px 4px;
+	flex: 4;
+	height: 52px;
+	border-radius: 2px;
+	font-family: inherit;
+	font-weight: 600;
+	font-size: 1rem;
+}
+body {
+	margin: 0;
+	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+		"Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell,
+		"Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Emoji",
+		"Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.heading_tag {
+    position: relative;
+    left: 42%;
+}
+.para {
+    position: relative;
+    left: 35%;
+}
